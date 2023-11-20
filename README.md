@@ -12,7 +12,8 @@
 </details>
 
 
-  📝 공부하고 있는 것
+  📝 공부하고 있는 것  
+  
    ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
    ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
