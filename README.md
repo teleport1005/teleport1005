@@ -19,8 +19,7 @@
    ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 </details>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=teleport1005&theme=city-lights&hide_border=%EA%B1%B0%EC%A7%93&border_radius=4&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=teleport1005&theme=city-lights&border_radius=4&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" /></a>
 
 ### 점점 채워나갈 예정입니다 🚧
 
